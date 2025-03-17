@@ -1,17 +1,4 @@
-<div align="center">
-  <img src="https://readme-genai.vercel.app/auth.png" alt="README Genai Logo" width="200"/>
-  <h1>README Genai</h1>
-  <p>AI-Powered README Generator for GitHub Repositories</p>
-  <a href="https://readme-genai.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Live%20Site-green" alt="Live Site"/>
-  </a>
-  <a href="https://github.com/bhosalevivek04/readme_generator" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Frontend%20Repo-blue" alt="Frontend Repo"/>
-  </a>
-  <a href="https://github.com/bhosalevivek04/readme_backend" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Backend%20Repo-blue" alt="Backend Repo"/>
-  </a>
-</div>
+ 
 
 ## 🚀 Introduction
 
