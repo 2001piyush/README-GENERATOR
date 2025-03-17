@@ -120,34 +120,7 @@ To run README Genai, you'll need the following API keys:
    - Generate an API key for the Gemini Pro model
    - Use this key in your frontend environment variables
 
-## 👥 Contributors
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/bhosalevivek04">
-        <img src="https://readme-genai.vercel.app/Vivek.jpg" width="100px;" alt="Vivek"/>
-        <br />
-        <sub><b>Vivek Bhosale</b></sub>
-      </a>
-      <br />
-      <a href="#" title="Code">💻</a>
-      <a href="#" title="Design">🎨</a>
-      <a href="#" title="Ideas">🤔</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Navnathjadhav08">
-        <img src="https://readme-genai.vercel.app/Navnath.jpg" width="100px;" alt="Navnath"/>
-        <br />
-        <sub><b>Navnath Jadhav</b></sub>
-      </a>
-      <br />
-      <a href="#" title="Code">💻</a>
-      <a href="#" title="Documentation">📖</a>
-      <a href="#" title="Ideas">🤔</a>
-    </td>
-  </tr>
-</table>
+ 
 
 ## 🤝 Contributing
 
@@ -160,12 +133,4 @@ README Genai is an open-source project, and we welcome contributions! If you'd l
 5. Open a Pull Request
 
 
-<div align="center">
-  <br />
-  <p>Made with Typescipt by <a href="https://github.com/bhosalevivek04">Vivek Bhosale</a></p>
-  <p>
-    <a href="https://github.com/bhosalevivek04" target="_blank">GitHub</a> •
-    <a href="https://x.com/VivekBhosale04" target="_blank">Twitter</a> •
-    <a href="https://www.linkedin.com/in/vivek-bhosale-329746283/" target="_blank">LinkedIn</a>
-  </p>
-</div>
+ 
