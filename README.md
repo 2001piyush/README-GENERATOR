@@ -32,9 +32,7 @@ With README Genai, you can streamline your documentation process and showcase yo
 - **Authentication:**
   - GitHub OAuth
 
-- **Deployment:**
-  - Vercel (frontend)
-  - Render (backend)
+- 
 
 ## 🏃‍♂️ Running the Project Locally
 
